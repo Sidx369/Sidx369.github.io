@@ -71,8 +71,9 @@ tabs.forEach(tab => {
 
 /*=========== PORTFOLIO SWIPER ==========*/
 let swiperPortfolio = new Swiper('.portfolio__container', {
-         // slidesPerView: 1,
-        // spaceBetween: 30,
+        cssMode: true,
+        slidesPerView: 1,
+        spaceBetween: 30,
         loop: true,
 
         navigation: {
