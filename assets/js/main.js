@@ -73,7 +73,7 @@ tabs.forEach(tab => {
 let swiperPortfolio = new Swiper('.portfolio__container', {
         cssMode: true,
         slidesPerView: 1,
-        spaceBetween: 30,
+        spaceBetween: 32,
         loop: true,
 
         navigation: {
