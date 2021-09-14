@@ -574,6 +574,12 @@ img{
 .skills_flutter{
 	width: 80%;
 }
+.skills_qiskit{
+	width: 85%;
+}
+.skills_cirq{
+	width: 55%;
+}
 
 .skills__close .skills__list{
 	height: 0;
