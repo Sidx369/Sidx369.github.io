@@ -836,6 +836,13 @@ img{
 	margin-top: var(--mb-3);
 }
 
+.footer__lastUpdate{
+	font-size: var(--smaller-font-size);
+	color: var(--text-color-light);
+	margin-top: var(--mb-2);
+	margin-left: var(--mb-2);
+}
+
 .footer__title,
 .footer__subtitle,
 .footer__link,
