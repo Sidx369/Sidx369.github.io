@@ -838,6 +838,7 @@ img{
 
 .footer__lastUpdate{
 	font-size: var(--smaller-font-size);
+	text-align: left;
 	color: var(--text-color-light);
 	margin-top: var(--mb-2);
 	margin-left: var(--mb-2);
